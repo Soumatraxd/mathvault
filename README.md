@@ -11,4 +11,4 @@ This repository serves as a digital notebook where I organize and share my unive
 - **Neovim** – for editing `.tex` files
 - **LaTeX** – for professional math typesetting
 - **Zathura** – for lightweight PDF previewing
-- **GitHub Pages** – to share and access my notes anywher
+- **GitHub Pages** – to share and access my notes anywhere
